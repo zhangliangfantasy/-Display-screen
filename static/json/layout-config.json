@@ -1,0 +1,68 @@
+[
+  {
+    "group": "1",
+    "module": "table",
+    "url": "",
+    "param": "",
+    "method": "",
+    "x": "0",
+    "y": "0",
+    "w": "5",
+    "h": "1"
+  },
+  {
+    "group": "1",
+    "module": "table",
+    "url": "",
+    "param": "",
+    "method": "",
+    "x": "5",
+    "y": "0",
+    "w": "5",
+    "h": "1"
+  },
+  {
+    "group": "1",
+    "module": "table",
+    "url": "",
+    "param": "",
+    "method": "",
+    "x": "0",
+    "y": "1",
+    "w": "5",
+    "h": "9"
+  },
+  {
+    "group": "1",
+    "module": "table",
+    "url": "",
+    "param": "",
+    "method": "",
+    "x": "5",
+    "y": "1",
+    "w": "5",
+    "h": "3"
+  },
+  {
+    "group": "1",
+    "module": "table",
+    "url": "",
+    "param": "",
+    "method": "",
+    "x": "5",
+    "y": "4",
+    "w": "5",
+    "h": "3"
+  },
+  {
+    "group": "1",
+    "module": "table",
+    "url": "",
+    "param": "",
+    "method": "",
+    "x": "5",
+    "y": "7",
+    "w": "5",
+    "h": "3"
+  }
+]

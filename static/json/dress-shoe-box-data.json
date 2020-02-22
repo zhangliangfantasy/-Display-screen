@@ -1,0 +1,94 @@
+{
+  "deviceUsageList": [
+    {
+      "dictId": "1",
+      "dictIdDesc": "电子更衣柜",
+      "areaType": 1,
+      "areaTypeDesc": "男",
+      "status": 1,
+      "statusDesc": "正常",
+      "total": 4
+    },
+    {
+      "dictId": "1",
+      "dictIdDesc": "电子更衣柜",
+      "areaType": 1,
+      "areaTypeDesc": "男",
+      "status": 1,
+      "statusDesc": "正常",
+      "total": 4
+    },
+    {
+      "dictId": "1",
+      "dictIdDesc": "电子更衣柜",
+      "areaType": 1,
+      "areaTypeDesc": "男",
+      "status": 3,
+      "statusDesc": "预定",
+      "total": 7
+    },
+    {
+      "dictId": "1",
+      "dictIdDesc": "电子更衣柜",
+      "areaType": 0,
+      "areaTypeDesc": "女",
+      "status": 1,
+      "statusDesc": "正常",
+      "total": 4
+    },
+    {
+      "dictId": "1",
+      "dictIdDesc": "电子更衣柜",
+      "areaType": 0,
+      "areaTypeDesc": "女",
+      "status": 1,
+      "statusDesc": "正常",
+      "total": 4
+    },
+    {
+      "dictId": "1",
+      "dictIdDesc": "电子更衣柜",
+      "areaType": 0,
+      "areaTypeDesc": "女",
+      "status": 3,
+      "statusDesc": "预定",
+      "total": 4
+    },
+    {
+      "dictId": "2",
+      "dictIdDesc": "电子更鞋柜",
+      "areaType": 1,
+      "areaTypeDesc": "男",
+      "status": 2,
+      "statusDesc": "未用",
+      "total": 4
+    },
+    {
+      "dictId": "2",
+      "dictIdDesc": "电子更鞋柜",
+      "areaType": 0,
+      "areaTypeDesc": "女",
+      "status": 1,
+      "statusDesc": "正常",
+      "total": 4
+    },
+    {
+      "dictId": "2",
+      "dictIdDesc": "电子更鞋柜",
+      "areaType": 0,
+      "areaTypeDesc": "女",
+      "status": 3,
+      "statusDesc": "预定",
+      "total": 6
+    },
+    {
+      "dictId": "2",
+      "dictIdDesc": "电子更鞋柜",
+      "areaType": 1,
+      "areaTypeDesc": "男",
+      "status": 4,
+      "statusDesc": "已用",
+      "total": 6
+    }
+  ]
+}

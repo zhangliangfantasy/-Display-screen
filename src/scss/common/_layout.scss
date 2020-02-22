@@ -1,0 +1,68 @@
+@mixin flex-row() {
+  display: -webkit-flex; /* Safari */
+  display: flex;
+  flex-direction: row; /*子元素从左到右横向排列*/
+  flex-wrap: wrap; /*换行*/
+  align-content: center; /*多个交叉轴时起作用*/
+  &.no-wrap {
+    flex-wrap: nowrap;
+  }
+  &.h-align--center {
+    justify-content: center;
+  }
+  &.h-align--left {
+    justify-content: flex-start;
+  }
+  &.h-align--right {
+    justify-content: flex-end;
+  }
+  &.h-align--both {
+    justify-content: space-between;
+  }
+
+  &.v-align--top {
+    align-items: flex-start;
+  }
+  &.v-align--center {
+    align-items: center;
+  }
+  &.v-align--bottom {
+    align-items: flex-end;
+  }
+}
+
+.w-row {
+  @include flex-row;
+}
+
+[class*="w-col"] {
+  flex-grow: 1; /*空间剩余各列等比扩展*/
+  flex-shrink: 1; /*空间不足各列等比缩小*/
+  @include flex-row;
+  max-width: 100%;
+}
+
+.w-col,
+.w-col-1 {
+  flex: 1;
+}
+
+.w-col-2 {
+  flex: 2;
+}
+
+.w-col-3 {
+  flex: 3;
+}
+
+.w-col-4 {
+  flex: 4;
+}
+
+.w-col-6 {
+  flex: 6;
+}
+
+.w-col-8 {
+  flex: 8;
+}

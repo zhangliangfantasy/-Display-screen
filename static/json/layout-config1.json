@@ -1,0 +1,67 @@
+{
+  "dataReFreshTime": 2,
+  "tableScrollTime": 80,
+  "modules": [
+    {
+      "title": "更衣/鞋柜使用情况",
+      "group": "1",
+      "zIndex": 0,
+      "type": 2,
+      "url": "./static/json/dress-shoe-box-data.json",
+      "param": {},
+      "method": "get",
+      "scrollTime": 80,
+      "dataFreshTime": 100,
+      "colScrollPeriod": 15,
+      "x": 0,
+      "y": 0,
+      "w": 2.5,
+      "h": 4
+    },
+    {
+      "title": "更衣/鞋柜使用情况哈哈哈",
+      "group": "1",
+      "zIndex": 0,
+      "type": 2,
+      "url": "./static/json/dress-shoe-box-data.json",
+      "param": {},
+      "method": "get",
+      "scrollTime": 80,
+      "dataFreshTime": 100,
+      "x": 0,
+      "y": 0,
+      "w": 2.5,
+      "h": 4
+    },
+    {
+      "title": "手术排班",
+      "group": "2",
+      "zIndex": 0,
+      "type": 1,
+      "url": "./static/json/surgical-scheduling-data.json",
+      "param": {},
+      "method": "get",
+      "scrollTime": 80,
+      "dataFreshTime": 100,
+      "x": 2.5,
+      "y": 0,
+      "w": 7.5,
+      "h": 10
+    },
+    {
+      "title": "首台迟到人员信息",
+      "group": "3",
+      "zIndex": 0,
+      "type": 3,
+      "url": "./static/json/first-late-data.json",
+      "param": {},
+      "method": "get",
+      "scrollTime": 80,
+      "dataFreshTime": 100,
+      "x": 0,
+      "y": 4,
+      "w": 2.5,
+      "h": 6
+    }
+  ]
+}
